@@ -1,0 +1,7 @@
+How is the world wide web different than the internet?: The world wide web, or just the web, is essentially a placeholder for all content, and the internet is what connects us to this content. 
+Briefly describe how the internet works: In simple terms, the internet moves data from one area to another. Servers store this data.
+What is a directory, and what is its relationship to files?: A directory, aka a folder, is a place to place/organize files. Directories are like a big suitcase for files assuring they have a spot to be. 
+How will VCS benefit you?: Version control system or source control will help me by easing the process of how things may have started to break and who/what broke them. 
+Take a screenshot anytime while working on your homework.
+What is your favorite kind of art?: I enjoy sculpture art and pottery. Pottery has always held a deep spot in my life as it can always bring me to a calming area and make me forget about the rest of my life for a few minutes. 
+Rename this screenshot using proper naming conventions, and upload it to your assignment-02 directory.
