@@ -1,4 +1,4 @@
-# Assignment 1
+# Assignment 3
 ## Joslyn Carlson
 1. Usage of Github
 2. How to create headings within a website
