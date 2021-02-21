@@ -1,6 +1,11 @@
-Joslyn Carlson
-Week 4 Web Design 
-1. A browser presents information from the web to you. I only use google chrome.
-2. Markup language is a computer language that defines a document by using tags. A common markup language is HTML which is a hypertext markup language.
+# Assignment 3
+## Joslyn Carlson
+1. Usage of Github
+2. How to create headings within a website
+3. A deeper understanding of IP addresses
 
-![screenshot](Assignment-04:images:.png)
+[Favorite Website](https://www.amazon.com/)
+
+[My Responses](./response.txt)
+
+![Screenshot](./images/Assignment-03:images:.png)
