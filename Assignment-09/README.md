@@ -1,0 +1,5 @@
+1.Learning HTML had its ups and downs. A lot of the things I struggled with I found I actually didn’t struggle I just wasn’t careful enough placing things the first go around. I often would forget a / or forget a . somewhere and it would create things to not function and cause panic. Yet always after looking into these problems a bit deeper I was able to solve my issues quite easily.
+
+2. Being 100% honest this class overwhelms me at moments. I feel like it is learning a foreign language and I have to really focus to understand the material. Going further into the class I always get worrisome that I will hit a point that absolutely nothing clicks and I get extremely lost. However, having a professor that is around 24/7 essentially to support and answer questions eases my concerns.
+
+3.This week I struggled with not having supplies to create a quick doodle for this assignment! I problem solved by using online images..however I wish I would have had some paper handy as it would have looked and flowed a lot smoother on the web page.
