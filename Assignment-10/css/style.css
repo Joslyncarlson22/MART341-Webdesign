@@ -7,11 +7,11 @@ body{
     /*Draw a solid border make it bright pink */
     border-style: solid;
     border-width: 10px;
-    border-color: bright pink;
+    border-color: #FF10F0;
     /*Add space between the border and its inside elements. */
     padding: 10px;
     /*Color the background with light pink.*/
-    background: light pink;
+    background: Yellow;
     width: 75%
     margin: auto;
 }
