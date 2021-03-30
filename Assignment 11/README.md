@@ -1,0 +1,3 @@
+1.System font: A pointer to a real font Web Font:A CSs feature that allows for one to specify font files. Web safe font: Fonts that are widely supported across browsers.
+2. It allows the user to control the look of the fonts on the web page even if the site the computer doesn't have the initial font you chose.
+3. This week i struggled a bit with my CSS folder and creating my font and style css. For some reason these concepts really just would't sync with me no matter how many times I re-read or re-watched examples on them. However, even though frustrating, trial and error got me a long way and I think it all worked out correctly. 
